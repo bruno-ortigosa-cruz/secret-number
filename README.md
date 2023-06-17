@@ -2,7 +2,7 @@
 
 ## English:
 - A HTML/CSS/JS project made in the *'JavaScript: validations and voice recognition'* course by Alura;
-- It's a guessing game that uses the microphone to capture the user input, so **if microphone access is denied, the website will not work**;
+- It's a guessing game that uses the microphone to capture the user's input, so **if microphone access is denied, the website will not work**;
 - This version is programmed for the English language, the Brazilian Portuguese version can be found here: https://github.com/bruno-ortigosa-cruz/numero-secreto
 - Unfortunately, the API utilised is limited to only Google Chrome and ***may not work properly in other browsers (or not work at all)***.
 

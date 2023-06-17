@@ -2,8 +2,6 @@ const main = document.getElementById("main-container")
 
 function validateGuess(guess) {
     const number = +guess
-    guess = guess.toLowerCase()
-    console.log(guess)
 
     if (guess == "game over") {
         main.innerHTML = `

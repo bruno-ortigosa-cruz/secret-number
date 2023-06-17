@@ -29,7 +29,7 @@ function displayGuess(guess) {
         guessElement.innerHTML = `
             <div>Secret Number:</div>
             <span class="box">${secretNumber}</span>
-            <div>Shhh... You didn't heard it from me!</div>
+            <div>Shhh... You didn't hear it from me!</div>
         `
     } else {
         guessElement.innerHTML = `

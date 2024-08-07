@@ -7,9 +7,6 @@
 - Unfortunately, the API utilised is limited to only Google Chrome and ***may not work properly in other browsers (or not work at all)***.
 
 - P.S. If you say 'secret number' the website shows you the secret number without ending the round (for development and testing pourposes).
-
-### Website: https://secret-number-gamma.vercel.app
-
 ---------
 
 ## Português:<br>
@@ -19,5 +16,3 @@
 - Infelizmente a API usada é limitada ao navegador Google Chrome e ***não irá funcionar propriamente em outros (ou nem funcionar no geral)***.
 
 - P.S. Você pode falar 'secret number' que o site te devolve com o número secreto sem terminar o round (para desenvolvimento ou testes).
-
-### Site: https://secret-number-gamma.vercel.app
